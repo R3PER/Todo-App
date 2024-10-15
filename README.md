@@ -2,6 +2,14 @@
 
 A powerful and intuitive task management application built with React.
 
+## Preview
+
+![todo gif](https://github.com/user-attachments/assets/871a0da8-26bd-48db-9521-fb5bc1a6fc27)
+
+![todo gif2](https://github.com/user-attachments/assets/f83beb44-de49-43cb-83dc-9f35960fd29c)
+
+
+
 ## Features
 
 - Create and manage tasks
