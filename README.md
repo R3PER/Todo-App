@@ -29,7 +29,7 @@ A powerful and intuitive task management application built with React.
 
 ## Getting Started
 
-1. Clone the repository: git clone https://github.com/R3PER/todo-app.git
+1. Clone the repository: git clone https://github.com/R3PER/Todo-App.git
 
 - Go to the todo app folder
 
